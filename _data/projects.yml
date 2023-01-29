@@ -2,5 +2,9 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: maybe soon?
-  description: 
+- project: Site-resolved imaging of a bosonic Mott insulator of atoms
+  description: Kiryang Kwon, Kyungtae Kim, **Junhyeok Hur**, SeungJung Huh, Jae-yoon Choi. PRA. 2022
+
+- project: Emission of spin-correlated matter-wave jets from spinor Bose-Einstein condensates
+  description: Kyungtae Kim, **Junhyeok Hur**, SeungJung Huh, Soonwon Choi, Jae-yoon Choi. PRL. 2021
+  
